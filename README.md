@@ -13,6 +13,9 @@ Website can be accessed through this link:
 
   https://slaiu.pythonanywhere.com/
 
+  - Username: Boofy
+  - Password: Boof
+
 The flow of scripts (row row row your boat):
 
 1) searchengine.py - gets links to ski lesson provider websites
