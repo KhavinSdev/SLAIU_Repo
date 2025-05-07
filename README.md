@@ -13,8 +13,8 @@ Website can be accessed through this link:
 
   https://slaiu.pythonanywhere.com/
 
-  - Username: Boofy
-  - Password: Boof
+  -> Username: Boofy
+  -> Password: Boof
 
 The flow of scripts (row row row your boat):
 
